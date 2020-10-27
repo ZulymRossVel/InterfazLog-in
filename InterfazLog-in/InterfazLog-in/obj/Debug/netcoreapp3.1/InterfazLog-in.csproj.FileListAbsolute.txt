@@ -1,0 +1,4 @@
+C:\Users\zulym\OneDrive\Documentos\GitHub\InterfazLog-in\InterfazLog-in\InterfazLog-in\obj\Debug\netcoreapp3.1\InterfazLog-in.csprojAssemblyReference.cache
+C:\Users\zulym\OneDrive\Documentos\GitHub\InterfazLog-in\InterfazLog-in\InterfazLog-in\obj\Debug\netcoreapp3.1\InterfazLog-in.AssemblyInfoInputs.cache
+C:\Users\zulym\OneDrive\Documentos\GitHub\InterfazLog-in\InterfazLog-in\InterfazLog-in\obj\Debug\netcoreapp3.1\InterfazLog-in.AssemblyInfo.cs
+C:\Users\zulym\OneDrive\Documentos\GitHub\InterfazLog-in\InterfazLog-in\InterfazLog-in\obj\Debug\netcoreapp3.1\InterfazLog-in.csproj.CoreCompileInputs.cache
